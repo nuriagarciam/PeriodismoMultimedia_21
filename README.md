@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## Yérmolov 
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,28 +9,30 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Yérmolov
 
-**Autor(es)** ______________
+**Autor(es)** Esperanza Durán y Nuria García
 
-**Resumen** : _________
+**Resumen** : 
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): ¿Cuánto se puede descubrir del pasado de alguien con una sola fotografía?
 
-**Hashtag**  ___
+**Hashtag** #Yermolov 
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2020
+**Fecha** : 2021
 
 **Medios** (donde se tiene presencia): 
 
 
 *  :octocat: (github url) 
 * Twitter 
-* ... 
+* Escape Room
+* Facebook
+* Página web
 
 
 
