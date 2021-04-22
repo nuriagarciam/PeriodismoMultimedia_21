@@ -9,17 +9,17 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : Yérmolov
+**Titulo** : Yermólov
 
 **Autor(es)** Esperanza Durán y Nuria García
 
 **Resumen** : El proyecto consta de un universo transmedia en el que Julia, una joven de Granada, se fija en que su abuela tiene cierta obsesión con una fotografía en particular. Decide investigar sobre ella y descubre que fue tomada durante la liberación del campo de concentración de Mauthausen en 1945. Dispuesta a descubrir qué hace ese momento histórico entre los recuerdos de su familia, se sumerge en una aventura en la que se acabarán revelando sus verdaderas raíces y la vida de sus antepasados.
 
-**logotipo** :  
+**Logotipo** :  
 
 ![Sin título-1_Mesa de trabajo 1](https://user-images.githubusercontent.com/82604085/115734217-d12a7600-a389-11eb-9ca2-99b34b76f51d.png)
 
-**Slogan** (frase motivadora/inspiradora): ¿Cuánto se puede descubrir del pasado de alguien con una sola fotografía?
+**Slogan** : ¿Cuánto se puede descubrir del pasado de alguien con una sola fotografía?
 
 **Hashtag** #Yermolov 
 
