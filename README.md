@@ -31,9 +31,8 @@ Univesidad de Granada
 
 
 *  :octocat: (github url) 
-* Twitter 
+* [Hilo de Twitter](https://twitter.com/juliagarme/status/1353044151890292736)
 * Escape Room
-* Facebook
 * Página web
 
 
@@ -48,12 +47,13 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+**Investigación de campo**   (Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
 
+* [Referencia Hilo de Twitter (Usuario: @nelagarnela)](https://twitter.com/nelagarnela/status/1031480480401686528?s=08)
+* [Referencia Hilo de Twitter (Usuario: @NagoreSuarez)](https://twitter.com/NagoreSuarez/status/1241039938642161666)
+* [Noticia: Españoles en los campos de concentración](https://historia.nationalgeographic.com.es/a/9161-presos-espanoles-campos-concentracion-nazis_15328)
+* [Historias de presos](https://www.amicalravensbruck.org/portfolio-items/fanjul-camin-olvido/)
 
 **Necesidad/oportunidad** 
 
