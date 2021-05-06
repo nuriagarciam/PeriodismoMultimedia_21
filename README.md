@@ -70,7 +70,11 @@ Partiremos de un hilo de Twitter durante el que se pide la colaboración de los 
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada. Para los diseños del proyecto se ha utilizado tanto Adobe Illustrator como Canva. Se ha seguido una estética minimalista en la que se incluyen imágenes en blanco y negro combinadas con un color coral característico. La tipografía elegida ha sido Roboto, ya que ayuda a reforzar el universo de Yermólov. A continuación se muestra una posible portada del proyecto.
+
+
+![Un proyecto transmedia de Esperanza Durán Nuria García](https://user-images.githubusercontent.com/82604085/117373509-a6810700-aecb-11eb-892b-fe4e9112be8b.jpg)
+
 
 * redes sociales (...) 
 
