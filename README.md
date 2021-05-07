@@ -88,14 +88,9 @@ el hashtag #Yermólov.
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
+Para evaluar el grado de satisfacción de los usuarios que han visionado nuestro proyecto, se realizaría un seguimiento del posicionamiento SEO. De esta forma obtendríamos los datos sobre el tráfico que ha tenido nuestra página web. También se podrían utilizar plataformas como Metricool o Google Analytics para conocer la interacción que han tenido nuestras redes sociales y Escape Room.
 
-* Test con usuarios (...) 
-* ... 
-
-
-
-
+Finalmente podríamos incluir un test o encuesta de evaluación del proyecto de manera que los usuarios puedan aportar las mejoras que se podrían realizar.
 
 ### Conclusiones y trabajo futuro
 
