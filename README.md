@@ -25,6 +25,8 @@ Univesidad de Granada
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
+<img width="701" alt="Captura de pantalla 2021-05-07 a las 11 49 08" src="https://user-images.githubusercontent.com/82604085/117432155-55543000-af2a-11eb-81fe-d6a220145134.png">
+
 **Fecha** : 2021
 
 **Medios** (donde se tiene presencia): 
@@ -76,11 +78,13 @@ Partiremos de un hilo de Twitter durante el que se pide la colaboración de los 
 ![Un proyecto transmedia de Esperanza Durán Nuria García](https://user-images.githubusercontent.com/82604085/117373509-a6810700-aecb-11eb-892b-fe4e9112be8b.jpg)
 
 
-* redes sociales (...) 
+* Redes sociales. Actualmente disponemos de un perfil de Twitter original del proyecto. En el caso de crear posteriormente otras redes sociales como Instagram o Facebook se utilizaría la misma línea gráfica que integre todos esos perfiles en el universo Yermólov. En todas las redes se utilizará 
+el hashtag #Yermólov. 
 
-* publicidad: banner (... ) 
+* Publicidad: Para promocionar el proyecto, se utilizaría un video teaser que llame a la acción del usuario y que muestre un breve resumen de la trama y la temática que tratamos. Además, se incluirán diferentes anuncios en formato de banner para llegar a más perfiles tanto por redes sociales como por páginas web.
 
-* ...
+![banner_Mesa de trabajo 1](https://user-images.githubusercontent.com/82604085/117434841-736f5f80-af2d-11eb-94e8-9595b8bc419a.png)
+
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
