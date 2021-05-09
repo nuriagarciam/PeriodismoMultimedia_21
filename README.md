@@ -82,6 +82,12 @@ Este primer prototipo puede consultarse [aquí.](https://cloud.protopie.io/pr/b7
 
 ![WhatsApp Image 2021-05-07 at 16 55 15 (1)](https://user-images.githubusercontent.com/82604085/117572495-6db37e80-b0d3-11eb-8d1a-9aef2a66015c.jpeg)
 
+Además, dispondríamos de una página web, creada también con Protopie, donde se recogería toda la información acerca del universo Yermolov. Entre los contenidos, podríamos descubrir la sinopsis de nuestro proyecto, los personajes, un recorrido por toda la experiencia transmedia que hemos ideado e información de contacto sobre nosotras, Nuria y Esperanza, las creadoras del Yermolov. 
+
+Este segundo prototipo se puede ver [aquí.](https://cloud.protopie.io/pr/b76737c8)!
+
+![WhatsApp Image 2021-05-07 at 16 55 15](https://user-images.githubusercontent.com/82604085/117572551-b53a0a80-b0d3-11eb-9193-4044ec88c82f.jpeg)
+
 
 * Redes sociales. Actualmente disponemos de un perfil de Twitter original del proyecto. En el caso de crear posteriormente otras redes sociales como Instagram o Facebook se utilizaría la misma línea gráfica que integre todos esos perfiles en el universo Yermólov. En todas las redes se utilizará 
 el hashtag #Yermólov. 
@@ -100,39 +106,13 @@ Finalmente podríamos incluir un test o encuesta de evaluación del proyecto de 
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Grado de consecución del proyecto: Todos los elementos narrativos de nuestro proyecto han sido elaborados, junto con la ideación de la experiencia transmedia del usuario. Además, tenemos bien definida la estética y los ele-mentos de diseño gráfico. En cuanto a la creación de los diferentes componentes multimedia, los prototipos se limitan a mostrar una primera idea de lo que nos gustaría hacer, no están comple-tamente desarrollados.
 
 
-Referencias y recursos: 
+* Problemas identificados: El primer obstáculo fue lograr decidir cuál sería la plataforma más indicada para lo que queríamos lograr. Finalmente, gracias a que estuvimos aconsejadas, llevamos a cabo nuestros prototipos con Protopie. La segunda dificultad que se nos ha planteado ha sido técnica, el limitado conoci-miento del funcionamiento del programa así como algunos errores a la hora de realizar nuestras actividades. En concreto, para el escape room, el elemento luminoso al pasar el ratón por encima de la imagen no funciona correctamente. 
 
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
+* Propuestas de mejora: con un conocimiento más profundo de Protopie, la experiencia podría adquirir mucho valor, ya que no sólo es entretenimiento, sino que nuestro proyecto está inspirado en historias reales que merece la pena escuchar.
 
-(...)
-
-
-
-
-
-
-----
-
-**Referencias y recursos utilizados** :
-
-* [Proceso UX](https://uxmastery.com/resources/process/)
-* [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
-* [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
-* [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
-
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
 
 
 
