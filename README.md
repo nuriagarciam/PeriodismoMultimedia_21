@@ -70,12 +70,17 @@ Partiremos de un hilo de Twitter durante el que se pide la colaboración de los 
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada. Para los diseños del proyecto se ha utilizado tanto Adobe Illustrator como Canva. Se ha seguido una estética minimalista en la que se incluyen imágenes en blanco y negro combinadas con un color coral característico. La tipografía elegida ha sido Roboto, ya que ayuda a reforzar el universo de Yermólov. A continuación se muestra una posible portada del proyecto.
 
 
 ![Un proyecto transmedia de Esperanza Durán Nuria García](https://user-images.githubusercontent.com/82604085/117373509-a6810700-aecb-11eb-892b-fe4e9112be8b.jpg)
+
+
+Hemos desarrollado un prototipo del escape room interactivo con Protopie. El proyecto consiste en una habitación con múltiples objetos relacionados con la historia de nuestros protagonistas. El usuario, al pasar el ratón por encima de los elementos de nuestro escenario, podrá ir descu-briendo cuáles de ellos se iluminan y le llevan a la pista siguiente.
+Este primer prototipo puede consultarse [aquí.](https://cloud.protopie.io/pr/b76737c8)
+
+![WhatsApp Image 2021-05-07 at 16 55 15 (1)](https://user-images.githubusercontent.com/82604085/117572495-6db37e80-b0d3-11eb-8d1a-9aef2a66015c.jpeg)
 
 
 * Redes sociales. Actualmente disponemos de un perfil de Twitter original del proyecto. En el caso de crear posteriormente otras redes sociales como Instagram o Facebook se utilizaría la misma línea gráfica que integre todos esos perfiles en el universo Yermólov. En todas las redes se utilizará 
